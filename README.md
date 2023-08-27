@@ -7,6 +7,11 @@
 
 <h2>CyberSecurity Completed Coursework and Certifications:</h2>
 
+<p align="center">
+  The Making of the CyberSecurity Professional <br/>
+  <img src="https://i.imgur.com/PyIPsIQ.jpg" height="88%" width="88%" alt="Disk Sanitization Steps"/>
+</p>
+
 <h2>Identity Security & Reputation Management Projects:</h2>
 
   - [Identity Security Micro-site and Results](https://m.myvcard.me/thadus)
