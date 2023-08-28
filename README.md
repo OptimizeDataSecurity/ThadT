@@ -4,12 +4,12 @@
 
   - [Nexxus Scan HomeLab](https://github.com/thadt21/LABURL)
   - [Active Director HomeLab](https://github.com/joshmadakor1/Algorithms-Practice)
-
+    
 <h2>CyberSecurity Completed Coursework and Certifications:</h2>
 
 <p align="center">
   The Making of the CyberSecurity Professional <br/>
-  <img src="https://i.imgur.com/a/va3nt1m.jpg" height="88%" width="88%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/vvhY5hr.jpg" height="88%" width="88%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h2>Identity Security & Reputation Management Projects:</h2>
