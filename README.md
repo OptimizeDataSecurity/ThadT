@@ -9,7 +9,7 @@
 
 <p align="center">
   The Making of the CyberSecurity Professional <br/>
-  <img src="https://i.imgur.com/oBfBzS5.jpg" height="88%" width="88%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/a/va3nt1m.jpg" height="88%" width="88%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h2>Identity Security & Reputation Management Projects:</h2>
