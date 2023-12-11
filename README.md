@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-  - [Nexxus Scan HomeLab](https://github.com/thadt21/LABURL)
+  - [Nexxus Scan HomeLab](https://github.com/OptimizeDataSecurity/NexxusLab/tree/main)
   - [Active Director HomeLab](https://github.com/joshmadakor1/Algorithms-Practice)
     
 <h2>CyberSecurity Completed Coursework and Certifications:</h2>
