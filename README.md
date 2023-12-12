@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-  - [Nexxus Scan HomeLab](https://github.com/OptimizeDataSecurity/NexxusLab/tree/main)
+  - [Nessus Vulnerability Scan - Project](https://github.com/OptimizeDataSecurity/NessusLabProject)
     
 <h2>CyberSecurity Completed Coursework and Certifications:</h2>
 
