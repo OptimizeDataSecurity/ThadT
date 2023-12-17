@@ -15,9 +15,13 @@
 
   - [Identity Security Micro-site and Results](https://m.myvcard.me/thadus)
 
-<h2>📺 Popular YouTuber Videos</h2>
+<h2>📺 Popular YouTuber Videos -From Online Mentor</h2>
 
+- [How to Set Up a SIEM (C#)](https://www.youtube.com/watch?v=RoZeVbbZ0o0)
+- [How to Set Up a Virtual AD Environment (C#)](https://www.youtube.com/watch?v=MHsI8hJmggI)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Create a File Integrity Monitor (C#)](https://www.youtube.com/watch?v=WJODYmk4ys8)
+- [Build a Simple Rest API (C#)](https://www.youtube.com/watch?v=IXzgjovXU94)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 
 
