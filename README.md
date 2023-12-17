@@ -1,4 +1,4 @@
-<h1>Hi, I'm Thad! <br/><a href="https://github.com/joshmadakor1"> Information Technologist</a>, <a href="https://www.linkedin.com/in/thadus-thompson/">Sr. Information Technology Support & Cyber Security Professional</a>, <a href="https://www.youtube.com/c/OptimizeDataSecurity"> & Upcoming TopTier YouTuber</a></h1>
+<h1>Hi, I'm Thad! <br/><a href="https://github.com/joshmadakor1"> Information Technologist</a>, <a href="https://www.linkedin.com/in/thadus-thompson/">Sr. Information Technology Support  Professional</a>, <a href="https://www.youtube.com/c/OptimizeDataSecurity"> & Upcoming TopTier YouTuber</a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
