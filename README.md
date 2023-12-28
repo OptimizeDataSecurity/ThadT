@@ -17,7 +17,7 @@
 
 <h2>📺 Popular YouTuber Videos - From My Favorite Online Mentors</h2>
 
-- [Computer Lab Set Up for Active Directory, DHCP, and DNS (C#)](https://www.youtube.com/watch?v=laDQImMNaCc)
+- [How to Set Up Set Up for Active Directory, DHCP, and DNS (C#)](https://www.youtube.com/watch?v=laDQImMNaCc)
 - [How to Set Up a Virtual AD Environment (C#)](https://www.youtube.com/watch?v=MHsI8hJmggI)
 - [How to Set Up a SIEM (C#)](https://www.youtube.com/watch?v=RoZeVbbZ0o0)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
