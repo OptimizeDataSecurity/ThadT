@@ -1,4 +1,4 @@
-<h1>Hi, I'm Thad! <br/><a href="https://github.com/joshmadakor1"> 2024's <I>Most</I> Passionate Information Technologist</a>, <P><a href="https://www.linkedin.com/in/thadus-thompson/">Sr. Information Tech Support & Cyber Security Pro!</a></h1></P>
+<h1>Hi, I'm Thad! <br/><a href="https://github.com/joshmadakor1"> 2024's <I>Most</I> Passionate Information Technologist</a>, <P><a href="https://www.linkedin.com/in/thadus-thompson/">Sr. Information Tech Support & Cyber Security Professional.</a></h1></P>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
