@@ -6,13 +6,11 @@
     
 <h2>CyberSecurity Completed Coursework and Certifications:</h2>
 
-<p align="center">
-  The Making of the CyberSecurity Professional <br/>
+<p align="center">The Making of the CyberSecurity Professional <br/>
   <img src="https://imgur.com/DXpwJ9D.jpg" height="88%" width="88%" alt="Disk Sanitization Steps"/>
 </p>
 
-<p align="center">
-  The Making of the CyberSecurity Professional <br/>
+<p align="center">CyberSecurity Education <br/>
   <img src="https://i.imgur.com/vvhY5hr.jpg" height="88%" width="88%" alt="Disk Sanitization Steps"/>
 </p>
 
