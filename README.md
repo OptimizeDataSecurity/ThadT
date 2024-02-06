@@ -10,10 +10,6 @@
   <img src="https://imgur.com/DXpwJ9D.jpg" height="88%" width="88%" alt="Disk Sanitization Steps"/>
 </p>
 
-<p align="center">CyberSecurity Education <br/>
-  <img src="https://i.imgur.com/vvhY5hr.jpg" height="88%" width="88%" alt="Disk Sanitization Steps"/>
-</p>
-
 <h2>Identity Security & Reputation Management Projects:</h2>
 
   - [Identity Security Micro-site and Results](https://m.myvcard.me/thadus)
